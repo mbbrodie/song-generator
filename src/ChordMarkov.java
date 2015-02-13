@@ -1,3 +1,5 @@
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -10,9 +12,11 @@ import java.util.Scanner;
 public class ChordMarkov {
 	String statsFileName;
 	ArrayList<String> chordList;
+	double[][] chordMatrix;
 	public ChordMarkov() {
-		statsFileName = "/songGenerator5/src/HymnChordAnalysis.txt";
+		statsFileName = "/Users/Mike/git/songGenerator4/src/HymnChordAnalysis.txt";
 		chordList = readChordList();
+		chordMatrix = createMarkovMatrix();
 	}
 	
 	
@@ -23,15 +27,22 @@ public class ChordMarkov {
 	 */
 	private double[][] createMarkovMatrix() {
 		double[][] matrix = new double[chordList.size()][chordList.size()];
-		Scanner input = new Scanner(statsFileName);
-        while (input.hasNextLine()) {
-        	String[] parts = input.nextLine().split(":");        	
-        	String[] chords = parts[0].split(",");
-        	int index1 = chordList.indexOf(chords[0]);
-        	int index2 = chordList.indexOf(chords[1]);
-        	matrix[index1][index2] = Integer.parseInt(parts[1]);
-        }
+		Scanner input;
+		try {
+			input = new Scanner(new File("/Users/Mike/git/songGenerator4/src/HymnChordAnalysis.txt"));
+		
+	        while (input.hasNextLine()) {
+	        	String[] parts = input.nextLine().split(":");        	
+	        	String[] chords = parts[0].split(",");
+	        	int index1 = chordList.indexOf(chords[0]);
+	        	int index2 = chordList.indexOf(chords[1]);
+	        	matrix[index1][index2] = Integer.parseInt(parts[1]);
+	        }
         input.close();
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		return matrix;
 	}
 	
@@ -41,17 +52,25 @@ public class ChordMarkov {
 	 */
 	private ArrayList<String> readChordList() {
 		ArrayList<String> chordList = new ArrayList<String>();
-		Scanner input = new Scanner(statsFileName);
-        while (input.hasNextLine()) {
-        	String[] parts = input.nextLine().split(":");
-        	String[] chords = parts[0].split(",");
-        	for (String c : chords) {
-        		if(!chordList.contains(c)) {
-        			chordList.add(c);
-        		}
-        	}                        
-        }
-        input.close();
+		Scanner input;
+		try {
+			input = new Scanner(new File(statsFileName));
+		
+	        while (input.hasNextLine()) {
+	        	String[] parts = input.nextLine().split(":");
+	        	String[] chords = parts[0].split(",");
+	        	for (String c : chords) {
+	        		if(!chordList.contains(c)) {
+	        			chordList.add(c);
+	        		}
+	        	}                        
+	        }
+	        input.close();
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+        
         return chordList;
 	}
 	
