@@ -1,0 +1,1012 @@
+G-interval class 5,E-unison:7
+D-minor seventh chord,F-incomplete major-seventh chord:3
+D-interval class 2,B-interval class 3:4
+E-tritone,B-tritone:6
+C#-diminished seventh chord,A-major triad:4
+E-interval class 3,F-whole-tone trichord:6
+F-whole-tone trichord,E-interval class 3:9
+F-major triad,E-minor triad:3
+D-interval class 4,C-interval class 4:1
+F-major triad,F-major triad:188
+D-interval class 3,G-major triad:6
+C-interval class 1,C-unison:5
+F-major triad,G-unison:6
+E-all-interval tetrachord,G-dominant seventh chord:12
+C-major triad,A-interval class 3:9
+F-whole-tone trichord,G-incomplete dominant-seventh chord:12
+F-interval class 4,F#-interval class 3:7
+D-incomplete dominant-seventh chord,D-whole-tone tetramirror:4
+G-interval class 4,C-interval class 5:79
+G-interval class 4,C-interval class 4:19
+G-dominant seventh chord,G-dominant seventh chord:15
+F-interval class 5,G-interval class 5:12
+E-major triad,E-dominant seventh chord:3
+F-interval class 4,C-interval class 5:15
+G-dominant seventh chord,G-unison:6
+G-dominant seventh chord,B-minor-second diminished tetrachord:5
+F-interval class 5,G-interval class 4:3
+C-interval class 4,C-major triad:152
+D-dominant seventh chord,F#-diminished triad:4
+A-major triad,A-dominant seventh chord:4
+G-major triad,D-interval class 3:3
+G#-interval class 3,A-interval class 3:6
+C-unison,D-unison:32
+C-interval class 5,A-unison:18
+D-interval class 3,D-quartal trichord:1
+C-interval class 5,B-tritone:3
+C-interval class 4,D-unison:9
+F-phrygian tetrachord,F-interval class 4:4
+C-interval class 5,D-interval class 5:3
+C-interval class 5,D-interval class 4:5
+C-interval class 5,D-interval class 3:5
+G-interval class 4,B-interval class 3:8
+C-major triad,D-interval class 3:15
+B-interval class 2,E-interval class 3:4
+F-interval class 4,G-major triad:1
+F-major triad,G-dominant seventh chord:22
+G-interval class 3,A-interval class 2:6
+E-interval class 3,B-unison:3
+G-interval class 4,E-unison:3
+C#-interval class 2,B-interval class 3:3
+A-interval class 3,A-interval class 4:3
+A-interval class 3,A-interval class 5:4
+A-interval class 3,A-interval class 2:8
+A-interval class 3,A-interval class 3:27
+C-major seventh chord,A-minor seventh chord:4
+E-unison,C-interval class 4:11
+B-tritone,F-interval class 5:3
+G-interval class 4,D-interval class 4:3
+A-quartal tetramirror,D-minor seventh chord:3
+D-interval class 3,F-unison:5
+E-dominant seventh chord,E-dominant seventh chord:12
+C-interval class 5,F-major triad:6
+B-minor-second diminished tetrachord,C-interval class 4:5
+B-unison,B-unison:15
+G-interval class 2,G-unison:3
+A-unison,A-interval class 3:3
+G-unison,D-interval class 3:11
+D-minor triad,A-minor triad:3
+D-interval class 3,C-major triad:28
+A-interval class 5,A-interval class 5:8
+G-dominant seventh chord,D-minor triad:3
+D-interval class 3,A-interval class 2:3
+G-major triad,A-quartal tetramirror:6
+G-incomplete dominant-seventh chord,C-interval class 4:20
+F-major seventh chord,F-minor-second quartal tetrachord:3
+G-major triad,G-interval class 2:3
+B-incomplete minor-seventh chord,A-minor triad:4
+G-major triad,G-interval class 4:13
+G-unison,G-unison:278
+E-minor triad,E-quartal tetramirror:3
+C-interval class 3,C-interval class 4:9
+D-interval class 3,D-unison:2
+G-major triad,C-whole-tone trichord:4
+E-interval class 5,B-tritone:6
+D-minor triad,F-phrygian tetrachord:4
+E-interval class 5,A-interval class 5:9
+F-unison,F#-interval class 3:4
+D-unison,G-unison:30
+G-interval class 4,C#-interval class 3:4
+A-incomplete dominant-seventh chord,G-dominant seventh chord:4
+C-dominant seventh chord,A-incomplete dominant-seventh chord:4
+D-minor seventh chord,A-minor triad:6
+A-interval class 2,F-interval class 4:11
+C-major triad,E-interval class 3:14
+E-unison,G-dominant seventh chord:3
+A-minor triad,D-incomplete dominant-seventh chord:3
+G-interval class 5,D-interval class 5:5
+G-interval class 5,D-interval class 4:16
+D-minor triad,G-incomplete dominant-seventh chord:3
+F#-tritone,G-interval class 5:4
+F#-tritone,G-interval class 4:5
+A-incomplete dominant-seventh chord,E-major triad:3
+G-unison,C-unison:101
+F-interval class 5,F-major triad:3
+C-interval class 4,E-all-interval tetrachord:4
+E-major triad,C-major triad:8
+D-minor triad,E-major triad:11
+C-major triad,G-whole-tone tetramirror:4
+C#-unison,D-unison:5
+F-interval class 4,F-unison:12
+D-incomplete dominant-seventh chord,G-major triad:16
+G-interval class 5,C-interval class 4:45
+G-major triad,A-minor seventh chord:3
+A-major triad,A-diminished triad:4
+E--interval class 4,F#-interval class 3:3
+F-interval class 5,F-interval class 4:17
+F-interval class 5,F-interval class 5:130
+B-interval class 3,G-interval class 4:11
+G-incomplete dominant-seventh chord,F-interval class 4:9
+C-interval class 5,G-interval class 2:13
+D-minor triad,D-minor triad:25
+G-interval class 2,F-interval class 4:4
+F#-diminished seventh chord,C-major triad:19
+C#-interval class 3,D-unison:11
+F-phrygian tetrachord,D-perfect-fourth minor tetrachord:3
+F-interval class 4,D-interval class 5:6
+F-interval class 4,D-interval class 3:9
+C-interval class 4,G-tritone quartal tetrachord:6
+D-minor triad,A-incomplete dominant-seventh chord:4
+B-tritone,A-interval class 5:3
+E-interval class 2,A-interval class 3:3
+F-interval class 4,C-unison:21
+G-unison,G-dominant seventh chord:4
+B-unison,E-interval class 5:4
+C-interval class 4,A-interval class 3:33
+C-interval class 4,A-interval class 5:11
+C-interval class 1,A-interval class 3:2
+C-major triad,C-dominant seventh chord:15
+C-major triad,C-augmented seventh chord:4
+G-interval class 5,B-unison:9
+C-interval class 5,F#-tritone:3
+D-unison,B-interval class 3:4
+D-incomplete minor-seventh chord,F-major triad:12
+B-unison,G-unison:5
+D-interval class 5,G-major triad:4
+D-dominant seventh chord,C-major triad:7
+A-interval class 3,D-unison:3
+D-unison,D-unison:37
+F-whole-tone trichord,A-incomplete dominant-seventh chord:4
+B-tritone-fourth,F-major triad:8
+G-dominant seventh chord,C-major triad:163
+A-major triad,A-interval class 2:1
+G-major triad,C-interval class 4:21
+F-major triad,D-interval class 3:6
+F#-tritone,C-interval class 5:11
+G-interval class 2,C-interval class 4:71
+G-unison,C-major triad:25
+G-interval class 4,A-interval class 5:1
+C-whole-tone trichord,D-dominant seventh chord:1
+C-major triad,A-unison:1
+F-major triad,G-major triad:27
+G-unison,A-interval class 5:5
+B-half-diminished seventh chord,C-major triad:4
+B-interval class 5,F#-interval class 3:3
+C-unison,B--unison:4
+C-unison,E-interval class 3:8
+C-unison,A-interval class 3:15
+A-interval class 3,C-major triad:8
+A-tritone,E-interval class 3:7
+A-interval class 5,C-interval class 4:3
+A-interval class 5,C-interval class 5:6
+D-minor triad,G-major triad:15
+B-tritone,B-interval class 3:3
+E-unison,F#-unison:7
+A-unison,D-unison:8
+C#-unison,C#-unison:1
+E-interval class 5,D-interval class 3:3
+A-minor triad,D-minor triad:21
+D-interval class 2,F#-tritone:3
+A-minor triad,G-major triad:38
+C-interval class 4,D-major triad:5
+F-whole-tone trichord,G-interval class 2:1
+C-interval class 4,D-interval class 2:16
+C-interval class 4,D-interval class 3:122
+F-interval class 5,C-unison:34
+G-major triad,F-major-second major tetrachord:4
+E-interval class 3,C-major triad:19
+C-interval class 4,D-interval class 4:1
+C-interval class 4,B-phrygian trichord:3
+G-interval class 4,G-whole-tone trichord:3
+D-minor seventh chord,A-major triad:1
+A-interval class 5,F-interval class 4:10
+F-unison,D-interval class 3:13
+C-interval class 5,F-interval class 5:28
+A-unison,F-interval class 4:4
+D-minor triad,G-dominant seventh chord:9
+A-interval class 5,B-diminished triad:1
+A-interval class 2,G-unison:4
+C-major triad,C-interval class 4:150
+B-unison,A-minor triad:3
+C-unison,G-major triad:28
+G-interval class 4,G-unison:34
+E-interval class 3,F-interval class 4:91
+G-incomplete dominant-seventh chord,E-unison:3
+G-incomplete dominant-seventh chord,F-major-second major tetrachord:5
+F-phrygian tetrachord,D-interval class 3:9
+G-major triad,B-interval class 3:1
+F-unison,F-unison:39
+C-major triad,C-incomplete dominant-seventh chord:1
+B-all-interval tetrachord,G-interval class 4:3
+D-minor triad,E-quartal tetramirror:4
+E-interval class 3,F#-interval class 3:6
+E-interval class 5,C-interval class 4:12
+G-interval class 4,C-major triad:23
+G-whole-tone tetramirror,G-dominant seventh chord:4
+G-whole-tone trichord,G-incomplete dominant-seventh chord:3
+C-major triad,E-major triad:4
+C-major triad,F-quartal trichord:4
+A-unison,E-interval class 3:17
+C-major triad,C-augmented major tetrachord:3
+F-major-second major tetrachord,C-major triad:3
+G-major triad,F-major triad:4
+F-major-second major tetrachord,G-major triad:3
+C-interval class 2,A-interval class 3:4
+C-major triad,G-tritone quartal tetrachord:3
+A-unison,A-tritone:4
+C#-unison,E-unison:1
+F-major triad,C-major seventh chord:4
+B-half-diminished seventh chord,F-major triad:3
+C#-tritone,D-interval class 3:4
+A-unison,D-interval class 3:3
+A-unison,D-interval class 2:3
+A-unison,D-interval class 5:6
+G-whole-tone tetramirror,C-major triad:7
+D-incomplete dominant-seventh chord,F#-incomplete minor-seventh chord:1
+F#-diminished seventh chord,F#-dominant seventh chord:4
+F-phrygian tetrachord,D-minor triad:3
+F-major-second major tetrachord,F-unison:3
+G-incomplete dominant-seventh chord,C#-diminished triad:4
+D-interval class 3,G-unison:5
+G-interval class 5,A-major triad:1
+A-unison,F-unison:3
+D-minor seventh chord,G-whole-tone tetramirror:1
+D-interval class 5,D-unison:3
+B-interval class 3,F-interval class 4:8
+E-unison,C-interval class 5:3
+C-unison,B-interval class 3:40
+A-minor triad,E-perfect-fourth minor tetrachord:3
+A-major triad,A-incomplete dominant-seventh chord:2
+F#-interval class 3,D-interval class 3:1
+C-interval class 5,C-major triad:44
+C-dominant seventh chord,A-major triad:3
+E-interval class 4,E-interval class 4:1
+E-interval class 4,E-interval class 3:1
+G-unison,F-major triad:7
+F-major triad,F-interval class 5:15
+A-interval class 2,G-interval class 5:1
+A-interval class 2,G-interval class 4:4
+C-major triad,D-incomplete dominant-seventh chord:8
+A-dominant seventh chord,A-quartal tetramirror:3
+A-interval class 2,G#-interval class 3:3
+D-dominant seventh chord,D-dominant seventh chord:4
+C-incomplete dominant-seventh chord,C-dominant seventh chord:1
+A-unison,C-unison:8
+C-interval class 4,E--interval class 4:9
+D-major triad,G-unison:7
+A-quartal tetramirror,D-dominant seventh chord:3
+F-major triad,B-tritone:4
+A-minor triad,D-dominant seventh chord:8
+D-major triad,A-perfect-fourth minor tetrachord:6
+A-interval class 3,G-dominant seventh chord:5
+A-major triad,G-quartal trichord:6
+A-interval class 3,G#-interval class 3:3
+D-dominant seventh chord,G-interval class 4:45
+G-interval class 2,F-unison:3
+F#-dominant seventh chord,A-incomplete dominant-seventh chord:3
+F-unison,F-interval class 4:6
+F-unison,F-interval class 5:16
+E-unison,A-minor triad:4
+C-major triad,F-phrygian tetrachord:12
+C-major triad,B-unison:10
+F-interval class 4,G-interval class 2:4
+C-unison,C-unison:560
+G-perfect-fourth major tetrachord,F-major triad:4
+F-interval class 4,G-interval class 4:16
+D-minor seventh chord,F-augmented major tetrachord:4
+B-interval class 3,C-interval class 3:3
+D-interval class 4,G-interval class 5:12
+B-interval class 3,C-interval class 1:3
+D-major triad,C-unison:3
+E-unison,E-unison:30
+B-interval class 3,C-interval class 5:11
+B-interval class 3,C-interval class 4:66
+E-interval class 3,E-unison:1
+F-interval class 5,C-interval class 5:41
+F-interval class 5,C-interval class 4:46
+D-interval class 5,D-interval class 4:1
+C-unison,F-interval class 5:58
+C-unison,F-interval class 4:29
+B-unison,A-interval class 3:3
+G-interval class 4,D-interval class 3:4
+A-interval class 3,D-minor triad:4
+E-interval class 3,G-major triad:6
+G#-diminished triad,F#-diminished seventh chord:4
+B-interval class 3,G-unison:8
+F-incomplete dominant-seventh chord,E-major triad:4
+B-minor triad,F#-tritone:1
+F-major triad,D-minor seventh chord:11
+C-interval class 4,F#-tritone:2
+E-interval class 5,A-unison:4
+C-whole-tone trichord,B-interval class 3:1
+F-interval class 5,D-interval class 2:2
+D-quartal tetramirror,D-quartal tetramirror:4
+D-unison,C-interval class 5:3
+D-unison,C-interval class 4:17
+F-unison,C-major triad:3
+F-major triad,F-interval class 4:15
+C-major seventh chord,F-major triad:11
+C-unison,E-unison:45
+G-major triad,D-minor triad:3
+F-interval class 4,E-interval class 4:1
+G-unison,D-unison:15
+F-interval class 4,E-interval class 3:142
+A-perfect-fourth minor tetrachord,D-dominant seventh chord:3
+D-minor triad,C-major triad:80
+F-major triad,C#-diminished triad:3
+E-interval class 4,A-minor triad:3
+G-interval class 4,B-tritone:1
+G#-unison,G#-unison:2
+A-minor triad,F-dominant seventh chord:3
+A-interval class 3,A-unison:4
+B-interval class 3,F-unison:7
+G-major triad,D-major triad:10
+C-half-diminished seventh chord,C-dominant seventh chord:4
+G-unison,C-interval class 4:28
+G-unison,C-interval class 5:128
+C-interval class 5,A-interval class 3:53
+C-interval class 4,A-quartal tetramirror:1
+B-interval class 3,D-interval class 2:5
+C-major triad,D-unison:3
+C-interval class 5,F#-interval class 3:5
+B-interval class 3,D-interval class 4:1
+B-interval class 3,D-interval class 5:6
+C-interval class 4,C-unison:71
+B-diminished triad,F-interval class 4:1
+B-half-diminished seventh chord,B-half-diminished seventh chord:3
+F-interval class 4,C-interval class 4:3
+A-minor seventh chord,D-minor triad:10
+C-interval class 5,G-tritone quartal tetrachord:3
+A-unison,A-unison:3
+A-minor triad,E-interval class 5:1
+C-quartal trichord,D-dominant seventh chord:3
+C#-tritone,C#-tritone:8
+A-interval class 5,C-major triad:2
+A-interval class 5,D-interval class 3:3
+C-interval class 4,D-incomplete minor-seventh chord:18
+D-interval class 3,D-interval class 3:53
+D-interval class 3,D-interval class 5:3
+A-interval class 5,D-interval class 5:7
+D-minor seventh chord,D-minor triad:9
+E-interval class 4,F-interval class 4:3
+C-interval class 4,E-interval class 4:1
+D-minor seventh chord,C-major triad:17
+E-quartal tetramirror,A-minor seventh chord:3
+D-interval class 2,B-tritone:4
+D-unison,F-unison:13
+F-interval class 5,G-incomplete dominant-seventh chord:1
+G-incomplete dominant-seventh chord,A-minor triad:9
+D-whole-tone tetramirror,G-major triad:3
+G-interval class 5,E-interval class 3:29
+G-interval class 2,E-interval class 4:5
+C-major triad,E-unison:4
+D-interval class 3,E-interval class 3:89
+B-interval class 3,E-unison:3
+E-minor triad,G-major triad:4
+G-major triad,E-interval class 3:19
+G-major triad,E-interval class 5:1
+F-unison,D-interval class 4:4
+F-unison,D-interval class 5:5
+C-major seventh chord,F-major seventh chord:3
+C-interval class 1,G-interval class 4:4
+A-interval class 3,B-interval class 3:11
+F-major seventh chord,F-phrygian tetrachord:3
+E-minor triad,G-dominant seventh chord:47
+F-interval class 4,G-unison:40
+A-interval class 3,B-interval class 5:3
+D-major triad,D-major triad:6
+F-interval class 4,F-interval class 5:5
+F-interval class 4,F-interval class 4:76
+D-whole-tone tetramirror,B-minor triad:4
+D-interval class 3,F-interval class 5:1
+G-incomplete dominant-seventh chord,E-interval class 3:3
+D-interval class 5,C-interval class 5:1
+G-interval class 4,G-interval class 2:3
+A-unison,G-interval class 4:11
+E-major triad,F#-dominant seventh chord:3
+C-interval class 1,E-tritone:1
+A-dominant seventh chord,A-major triad:1
+C-interval class 4,G-dominant seventh chord:22
+A-interval class 5,G-unison:5
+C-unison,F-unison:30
+C-major-diminished tetrachord,F#-diminished triad:4
+F#-diminished triad,C-major triad:26
+G-quartal trichord,D-minor triad:9
+B-diminished triad,C-interval class 4:3
+C-interval class 5,G-unison:41
+G-major triad,D-incomplete dominant-seventh chord:9
+D-minor seventh chord,G-dominant seventh chord:4
+G-unison,G-incomplete dominant-seventh chord:16
+D-minor seventh chord,A-perfect-fourth minor tetrachord:4
+G-interval class 2,E-interval class 3:38
+F-interval class 4,A-interval class 5:6
+A-interval class 2,D-interval class 3:4
+G-interval class 5,G-interval class 2:15
+D-minor triad,F-interval class 4:4
+G-interval class 5,G-interval class 4:25
+G-interval class 5,G-interval class 5:84
+A-interval class 2,D-interval class 5:3
+C-interval class 4,B-tritone:12
+F#-diminished triad,G-major triad:8
+A-interval class 3,B-tritone:3
+A-incomplete dominant-seventh chord,D-minor triad:8
+C-interval class 4,F-unison:20
+D-interval class 2,C-interval class 4:20
+A-major triad,A-major triad:11
+G-interval class 4,G-dominant seventh chord:5
+G-dominant seventh chord,E-all-interval tetrachord:5
+B-unison,G-interval class 4:9
+E-major triad,E--major triad:3
+G-dominant seventh chord,E-interval class 3:3
+C-interval class 5,E-unison:9
+F-unison,A-unison:3
+F#-tritone,G-incomplete dominant-seventh chord:1
+B-unison,B-interval class 3:6
+G-interval class 4,D-dominant seventh chord:4
+F-major-second major tetrachord,G-incomplete dominant-seventh chord:8
+F-interval class 5,C#-interval class 3:3
+C-interval class 4,C-major seventh chord:11
+A-minor triad,E-major triad:6
+E-unison,A-interval class 3:1
+A-minor triad,E-dominant seventh chord:11
+D-interval class 5,B-interval class 3:4
+A-diminished triad,A-major triad:4
+C-interval class 4,E-tritone:6
+G-interval class 5,G-major triad:9
+E-unison,D-interval class 5:6
+C-major triad,G-major triad:276
+D-dominant seventh chord,G-dominant seventh chord:13
+D-incomplete dominant-seventh chord,C-whole-tone trichord:4
+E-unison,D-interval class 3:6
+A-interval class 3,D-interval class 5:19
+G-major triad,G-dominant seventh chord:32
+E-interval class 5,B-diminished triad:1
+A-interval class 3,D-interval class 2:5
+C-major seventh chord,D-minor seventh chord:4
+E-interval class 3,G-incomplete dominant-seventh chord:39
+B-incomplete dominant-seventh chord,E-major triad:3
+E-interval class 3,B-interval class 3:8
+G-interval class 2,F-major triad:1
+G#-interval class 3,G-interval class 2:3
+C-interval class 4,G-major triad:46
+D-interval class 5,D-interval class 3:1
+A-interval class 5,G-interval class 4:1
+A-interval class 5,G-interval class 5:3
+G-whole-tone tetramirror,E-minor triad:1
+F#-unison,G#-unison:3
+E-dominant seventh chord,C-augmented triad:4
+C-interval class 5,B-interval class 3:6
+D-incomplete dominant-seventh chord,F#-incomplete half-diminished seventh chord:3
+F-interval class 5,F-unison:12
+C-interval class 5,G-interval class 4:81
+F-major triad,G-incomplete dominant-seventh chord:4
+G-unison,A-unison:27
+C-interval class 4,E-interval class 3:72
+C-interval class 4,E-interval class 2:3
+E-tritone,F-interval class 4:1
+D-major triad,G-major triad:24
+C-major triad,E-minor triad:22
+A-interval class 3,C-whole-tone trichord:1
+C-major triad,B-tritone-fourth:5
+C-interval class 5,C-interval class 2:7
+G#-interval class 3,G#-interval class 3:6
+D-major-second major tetrachord,E-dominant seventh chord:4
+G-perfect-fourth major tetrachord,C-major triad:4
+G-interval class 5,G-unison:10
+F-major-second major tetrachord,G-dominant seventh chord:7
+D-unison,G-interval class 5:21
+F-major triad,B-interval class 3:12
+E--major triad,B-incomplete dominant-seventh chord:3
+F-major triad,E-unison:3
+A-interval class 3,F#-tritone:4
+A-interval class 3,G-interval class 5:6
+D-incomplete dominant-seventh chord,G-interval class 4:10
+E-interval class 3,G-unison:10
+D-interval class 3,A-unison:9
+D-major triad,D-interval class 5:4
+B-interval class 3,C-unison:75
+C-major triad,G-perfect-fourth major tetrachord:7
+F-incomplete major-seventh chord,D-minor triad:3
+G-interval class 4,G-major triad:14
+G-interval class 2,D-interval class 3:4
+C-interval class 4,C-incomplete major-seventh chord:9
+F-unison,G-interval class 2:4
+B-diminished triad,F-major triad:4
+E-unison,B-unison:6
+D-unison,A-unison:7
+G-interval class 5,D-unison:18
+A-interval class 5,F#-interval class 3:4
+B-half-diminished seventh chord,E-interval class 4:3
+C-interval class 4,C-interval class 3:6
+A-incomplete dominant-seventh chord,B-half-diminished seventh chord:2
+F-interval class 1,D-interval class 3:3
+C#-diminished seventh chord,D-minor triad:3
+C-interval class 5,C-unison:84
+E-interval class 3,F-unison:6
+E-unison,C-major triad:3
+D-whole-tone tetramirror,D-incomplete dominant-seventh chord:1
+A-interval class 2,D-unison:3
+F-major triad,F#-diminished seventh chord:2
+E-unison,C#-unison:1
+D-minor triad,D-minor seventh chord:2
+D-interval class 5,C-unison:3
+F-major triad,G-tritone quartal tetrachord:24
+B-unison,F-interval class 4:3
+B-unison,F-interval class 5:3
+F-interval class 4,C#-interval class 3:1
+C-major triad,B-interval class 3:47
+A-unison,A-interval class 2:1
+C-quartal trichord,G-incomplete dominant-seventh chord:3
+F-unison,C-unison:6
+C-interval class 5,E-interval class 3:36
+F-interval class 4,B-interval class 3:16
+G-major triad,C#-diminished triad:1
+F-major triad,D-incomplete minor-seventh chord:8
+G-incomplete dominant-seventh chord,B-diminished triad:4
+C-interval class 5,E-interval class 5:4
+A-minor seventh chord,C-quartal trichord:3
+E-quartal tetramirror,D-minor triad:9
+G-dominant seventh chord,C-dominant seventh chord:4
+F-major triad,E-interval class 3:9
+E-interval class 5,A-interval class 3:5
+G-dominant seventh chord,C-interval class 4:115
+A-minor seventh chord,D-incomplete dominant-seventh chord:1
+C-major triad,A-dominant seventh chord:1
+G-interval class 2,G-interval class 5:8
+F-unison,D-unison:18
+D-major triad,B-all-interval tetrachord:3
+F-major triad,E-dominant seventh chord:4
+G-interval class 4,B-incomplete half-diminished seventh chord:1
+D-interval class 5,D-interval class 5:12
+E-interval class 4,A-interval class 5:4
+F#-incomplete minor-seventh chord,B-minor triad:1
+C-augmented triad,E-dominant seventh chord:4
+E-unison,G-incomplete dominant-seventh chord:3
+D-incomplete minor-seventh chord,A-interval class 3:8
+G-tritone quartal tetrachord,F-major triad:42
+A-interval class 4,D-interval class 5:4
+G-major triad,C-unison:12
+G-whole-tone trichord,C-major triad:4
+C-major triad,E-quartal tetramirror:1
+F-interval class 4,C-major triad:21
+E-dominant seventh chord,A-minor triad:24
+F-interval class 5,B-interval class 3:3
+D-minor triad,A-major triad:16
+G-interval class 4,G-incomplete dominant-seventh chord:10
+F#-interval class 3,G-unison:22
+E--interval class 4,G-interval class 5:4
+F-major triad,F-major-second major tetrachord:4
+D-minor triad,F#-diminished seventh chord:4
+F-major triad,D-minor triad:12
+G-major triad,E-major triad:3
+C-unison,C#-unison:3
+E-dominant seventh chord,A-interval class 3:4
+C-major triad,E-interval class 2:3
+A-incomplete minor-seventh chord,G-interval class 4:1
+G#-interval class 3,A-unison:6
+A-interval class 5,F-unison:4
+E-incomplete dominant-seventh chord,D-major-second major tetrachord:4
+D-unison,C#-unison:2
+C-major triad,D-major triad:7
+C-major triad,F-major triad:295
+G-unison,G-major triad:7
+G-interval class 4,G-interval class 5:32
+G-interval class 4,G-interval class 4:150
+C-interval class 4,G-interval class 5:29
+C-interval class 4,G-interval class 4:38
+C-interval class 4,G-interval class 3:3
+C-interval class 4,G-interval class 2:8
+B-incomplete half-diminished seventh chord,C-major triad:7
+E-interval class 3,A-interval class 2:7
+D-minor seventh chord,E-minor triad:7
+A-minor triad,G-incomplete dominant-seventh chord:7
+E-interval class 3,E-interval class 4:6
+E-interval class 3,E-interval class 5:4
+F-whole-tone trichord,C-major triad:3
+E-interval class 3,E-interval class 3:112
+E-unison,C-unison:35
+A-interval class 3,G-interval class 4:43
+F-unison,F-major triad:3
+A-perfect-fourth minor tetrachord,E-minor triad:4
+C-interval class 4,B-unison:1
+E-minor triad,A-minor triad:13
+C-dominant seventh chord,C-half-diminished seventh chord:4
+C-major triad,D-dominant seventh chord:10
+G-major triad,G-unison:16
+D-interval class 5,A-interval class 3:19
+D-interval class 5,A-interval class 5:1
+C#-interval class 3,C#-interval class 3:5
+A-minor triad,B-half-diminished seventh chord:3
+A-minor seventh chord,D-major triad:3
+D-quartal trichord,D-minor triad:1
+B-tritone,C#-interval class 2:3
+E-interval class 4,A-unison:1
+E-interval class 3,C#-tritone:4
+E-interval class 5,B-interval class 3:17
+F#-interval class 3,B-tritone:3
+B-phrygian trichord,C-interval class 4:3
+C#-diminished triad,G-major triad:1
+G-unison,F-interval class 4:11
+F-major-second major tetrachord,E-minor triad:4
+G-dominant seventh chord,G-whole-tone tetramirror:4
+E-unison,F-interval class 5:4
+F-major triad,E-all-interval tetrachord:4
+B-interval class 3,C-major triad:37
+G-dominant seventh chord,G-major triad:11
+G#-diminished triad,C-major triad:1
+G-interval class 4,F-interval class 4:55
+G-dominant seventh chord,E-dominant seventh chord:3
+F-interval class 4,F-major seventh chord:3
+C-interval class 5,G#-interval class 3:6
+B-unison,F-major triad:6
+G-interval class 4,E--interval class 4:3
+G-dominant seventh chord,A-minor triad:25
+F-major triad,G-quartal trichord:3
+D-unison,D-interval class 2:11
+C-interval class 4,F-interval class 5:68
+F-interval class 4,G-incomplete dominant-seventh chord:7
+C-interval class 4,F-major triad:20
+B-tritone,A-minor triad:1
+C-major triad,C-major seventh chord:4
+E-interval class 3,A-minor triad:1
+G-interval class 2,G-interval class 2:17
+C-interval class 2,F-interval class 4:3
+A-minor triad,D-minor seventh chord:22
+G-dominant seventh chord,F-quartal trichord:3
+A-interval class 3,B-unison:9
+F#-tritone,B-unison:4
+F-major triad,G#-diminished triad:6
+D-interval class 3,G-interval class 2:3
+D-interval class 3,G-interval class 5:18
+F-unison,E-unison:78
+G-interval class 5,C-interval class 5:84
+E-interval class 3,C-unison:16
+C-unison,G-unison:80
+D-minor seventh chord,E-major triad:3
+G#-tritone,A-interval class 3:5
+C-major triad,C-major triad:1014
+B-tritone,E-interval class 3:4
+A-quartal tetramirror,G-incomplete dominant-seventh chord:1
+D-interval class 2,C-unison:4
+B-tritone,E-interval class 5:6
+D-perfect-fourth minor tetrachord,F-major-second major tetrachord:4
+G-unison,G-interval class 2:81
+G#-interval class 3,E-interval class 3:3
+E-unison,D-unison:44
+G-dominant seventh chord,G-incomplete dominant-seventh chord:17
+B-tritone,D-interval class 2:1
+G-unison,G-interval class 4:13
+G-incomplete dominant-seventh chord,G-major triad:12
+G-interval class 5,F-interval class 4:3
+A-dominant seventh chord,E-quartal tetramirror:4
+A-quartal tetramirror,G-major triad:3
+D-interval class 2,G-interval class 4:25
+G-incomplete dominant-seventh chord,F-whole-tone trichord:11
+A-interval class 3,G-major triad:13
+C-major triad,A-minor seventh chord:12
+A-unison,C-interval class 4:3
+F-interval class 4,G-interval class 5:7
+C-incomplete major-seventh chord,F-interval class 4:5
+D-minor seventh chord,G-incomplete dominant-seventh chord:3
+B-unison,B-interval class 2:4
+D-minor triad,D-dominant seventh chord:7
+A-interval class 4,A-unison:4
+F-interval class 5,D-unison:10
+E--interval class 4,C-interval class 4:6
+D-quartal tetramirror,G-dominant seventh chord:3
+D-interval class 3,F-major triad:9
+E-unison,G-interval class 4:4
+F#-diminished triad,G-dominant seventh chord:4
+A-interval class 3,E-interval class 5:12
+D-interval class 3,B-interval class 3:7
+F-unison,E-interval class 3:37
+C-major triad,C#-diminished seventh chord:7
+G-unison,E-unison:71
+A-interval class 4,A-interval class 4:4
+D-incomplete dominant-seventh chord,B-minor triad:1
+C-unison,B-unison:48
+C-major triad,A-minor triad:73
+G-interval class 4,F-whole-tone trichord:4
+D-perfect-fourth minor tetrachord,G-dominant seventh chord:7
+E-all-interval tetrachord,C-major triad:5
+D-incomplete minor-seventh chord,C-major triad:36
+G-interval class 4,F-major triad:6
+C-major triad,G-unison:36
+C-interval class 4,E-interval class 5:16
+E-interval class 3,F-interval class 1:3
+D-interval class 3,B-tritone:7
+F-major triad,D-major triad:3
+E-interval class 3,F-interval class 5:7
+C-major triad,C-interval class 5:54
+E-interval class 3,C-interval class 4:129
+E-interval class 3,C-interval class 5:17
+A-minor triad,A-minor seventh chord:10
+C-major triad,F-whole-tone trichord:15
+G-dominant seventh chord,E-minor triad:6
+F-interval class 4,G#-interval class 3:3
+F-interval class 4,B-tritone:18
+C-major triad,D-incomplete minor-seventh chord:28
+E-interval class 5,A-minor triad:1
+C-major triad,G-interval class 4:5
+B-tritone,F-major triad:4
+B--major triad,G-interval class 5:1
+E-interval class 5,F-interval class 4:4
+C-interval class 5,G-interval class 5:46
+G-incomplete dominant-seventh chord,C-major triad:163
+A-major-second minor tetrachord,A-minor triad:4
+B-unison,A-unison:20
+D-unison,C-unison:30
+G-interval class 5,B-interval class 3:1
+G-major triad,F#-diminished triad:4
+B-minor triad,D-dominant seventh chord:5
+D-major triad,D-dominant seventh chord:4
+B-tritone,B-tritone:19
+C-unison,C-interval class 4:76
+C-unison,C-interval class 5:73
+G-major triad,G-incomplete dominant-seventh chord:25
+C-major triad,F#-diminished seventh chord:9
+A-interval class 3,C-interval class 4:3
+A-minor triad,D-incomplete minor-seventh chord:3
+F#-dominant seventh chord,F#-diminished seventh chord:4
+C#-diminished triad,G-incomplete dominant-seventh chord:8
+B-tritone,C-unison:3
+A-minor seventh chord,C-major triad:12
+C-major triad,D-minor seventh chord:26
+G-incomplete dominant-seventh chord,G-dominant seventh chord:15
+E-half-diminished seventh chord,A-major triad:2
+F-unison,G-interval class 5:12
+C-interval class 4,B--major triad:1
+F#-diminished seventh chord,C-major-diminished tetrachord:4
+A-perfect-fourth minor tetrachord,G-major triad:3
+E-unison,A-unison:8
+A-minor triad,E-interval class 3:3
+A-interval class 3,C-interval class 5:30
+C-major triad,C-interval class 1:1
+A-minor triad,E-interval class 4:1
+B-tritone,G-interval class 2:3
+G-major triad,E-minor triad:21
+F-interval class 4,B-unison:3
+C-interval class 5,C-interval class 4:72
+C-interval class 5,C-interval class 5:221
+G-unison,E-interval class 3:26
+D-unison,A-interval class 3:5
+D-interval class 4,G-unison:21
+F-augmented major tetrachord,D-minor seventh chord:4
+B-half-diminished seventh chord,E-major triad:4
+C-unison,A-unison:10
+B-interval class 3,B-tritone:8
+G-dominant seventh chord,E-unison:3
+G-interval class 4,D-incomplete dominant-seventh chord:3
+F#-interval class 3,F#-interval class 3:6
+E-minor triad,D-interval class 3:9
+G-interval class 5,C-major triad:1
+B-interval class 2,G-interval class 4:3
+G-dominant seventh chord,C#-diminished triad:4
+F#-interval class 3,E-interval class 3:7
+B--unison,A-unison:4
+D-interval class 2,D-interval class 2:16
+C-major triad,D-perfect-fourth minor tetrachord:12
+E-interval class 3,A-interval class 3:7
+B-interval class 3,B-interval class 2:3
+B-interval class 3,B-interval class 3:73
+C-whole-tone trichord,D-incomplete dominant-seventh chord:7
+E-interval class 3,A-interval class 5:9
+A-interval class 5,E-interval class 3:8
+B-diminished triad,E-minor triad:6
+A-interval class 5,E-interval class 5:6
+C-augmented major tetrachord,F-major triad:3
+C-interval class 4,F-interval class 4:17
+F-quartal trichord,C-major triad:3
+G#-interval class 3,G#-diminished triad:1
+C-major triad,F#-diminished triad:30
+G-incomplete dominant-seventh chord,G-interval class 4:3
+G-interval class 4,E-interval class 3:7
+G-major triad,C-major triad:330
+G-interval class 4,E-interval class 5:3
+D-incomplete minor-seventh chord,C-interval class 4:1
+F-interval class 5,D-interval class 3:10
+C-major triad,E-dominant seventh chord:7
+G-major triad,A-minor triad:11
+F-interval class 4,G-dominant seventh chord:4
+D-minor triad,A-dominant seventh chord:3
+E-unison,F-unison:46
+D-dominant seventh chord,D-major triad:7
+F-major triad,G-perfect-fourth major tetrachord:1
+F#-diminished triad,D-major-diminished tetrachord:4
+F#-diminished seventh chord,F#-diminished seventh chord:4
+C-major triad,D-minor triad:32
+B-interval class 3,D-unison:3
+B-tritone,C-major triad:3
+F-unison,A-interval class 4:1
+G-dominant seventh chord,D-quartal tetramirror:12
+C-major-second major tetrachord,D-incomplete dominant-seventh chord:4
+D-perfect-fourth minor tetrachord,D-minor triad:7
+B-unison,C-unison:50
+C-incomplete major-seventh chord,F-major triad:9
+G#-diminished triad,A-interval class 3:4
+E-unison,G-major triad:3
+A-minor triad,D-major triad:14
+D-interval class 5,C#-interval class 3:4
+G-major triad,D-dominant seventh chord:45
+A-minor triad,B-tritone-fourth:1
+D-major triad,C-interval class 5:3
+D-unison,G-interval class 4:7
+D-interval class 5,E-interval class 3:1
+D-minor seventh chord,F-major triad:2
+F-unison,G-unison:29
+F-interval class 4,F-major triad:20
+D-interval class 3,G-interval class 4:3
+C-major triad,G-incomplete dominant-seventh chord:98
+G-interval class 4,D-major triad:9
+F#-incomplete half-diminished seventh chord,D-incomplete dominant-seventh chord:3
+E-interval class 4,G#-tritone:5
+E-unison,G-unison:53
+F-major triad,C-perfect-fourth major tetrachord:6
+E-major triad,A-minor triad:21
+G-incomplete dominant-seventh chord,F-major triad:14
+G-incomplete dominant-seventh chord,G-incomplete dominant-seventh chord:24
+C-interval class 5,D-dominant seventh chord:3
+F-minor-second quartal tetrachord,B-half-diminished seventh chord:3
+B-diminished triad,G-major triad:1
+C-major triad,B-diminished triad:13
+C-major triad,E-half-diminished seventh chord:2
+F-whole-tone trichord,G-major triad:4
+A-interval class 3,F-interval class 5:10
+F-interval class 4,D-incomplete dominant-seventh chord:6
+C-major triad,A-major triad:7
+G-major triad,A-interval class 3:4
+D-interval class 3,E-unison:4
+C-interval class 5,D-minor triad:4
+D-interval class 5,G-interval class 4:15
+G-interval class 4,C-unison:102
+E-major triad,G-major triad:3
+G-interval class 4,G#-interval class 3:3
+G-major triad,G-major triad:138
+C-major triad,E-all-interval tetrachord:4
+G-interval class 5,F-unison:3
+G-interval class 2,C-major triad:4
+G-dominant seventh chord,A-interval class 3:8
+A-minor triad,A-minor triad:19
+C-major triad,D-quartal tetramirror:113
+C-interval class 4,B-interval class 3:100
+F#-unison,G-unison:10
+D-minor triad,G#-interval class 3:1
+C-major triad,F-interval class 4:24
+B-interval class 3,A-interval class 3:29
+B-interval class 3,A-interval class 2:3
+D-unison,E-unison:28
+C-dominant seventh chord,F-major triad:13
+F-major-second major tetrachord,F-major triad:1
+F#-interval class 3,G-interval class 5:4
+F#-interval class 3,G-interval class 4:10
+E-perfect-fourth minor tetrachord,G-dominant seventh chord:3
+F#-interval class 3,G-interval class 2:1
+C-interval class 4,F#-interval class 3:3
+D-minor triad,G-whole-tone trichord:4
+G-dominant seventh chord,F-major-second major tetrachord:5
+D-minor seventh chord,G-major triad:8
+C-interval class 5,F-unison:37
+E-interval class 3,B-tritone:4
+A-minor triad,D-perfect-fourth minor tetrachord:3
+D-major-diminished tetrachord,F#-diminished seventh chord:4
+E-minor triad,C-major triad:3
+C-interval class 4,C-interval class 5:83
+C-interval class 4,C-interval class 4:303
+C-unison,D-minor triad:4
+C-unison,G-interval class 4:60
+C-unison,G-interval class 5:29
+C-unison,G-interval class 2:4
+D-interval class 3,G-incomplete dominant-seventh chord:5
+A-minor triad,G-dominant seventh chord:4
+A-unison,B-unison:18
+G#-unison,A-unison:5
+E-interval class 2,F-major triad:3
+A-minor triad,F-major triad:16
+B-diminished triad,C-major triad:4
+A-interval class 3,A-minor triad:7
+D-interval class 5,G-unison:25
+D-minor seventh chord,D-minor seventh chord:8
+C-interval class 4,C#-interval class 3:1
+G-interval class 4,A-interval class 3:19
+A-interval class 3,C-interval class 1:8
+D-dominant seventh chord,G-major triad:13
+C-major triad,C-incomplete major-seventh chord:11
+D-interval class 4,D-interval class 4:7
+E-unison,B-interval class 3:6
+E-dominant seventh chord,F-major triad:4
+G-dominant seventh chord,F-major triad:11
+D-interval class 3,F-interval class 4:9
+F-major triad,B-half-diminished seventh chord:8
+D-incomplete dominant-seventh chord,D-major triad:6
+D-dominant seventh chord,D-whole-tone tetramirror:3
+F-major triad,C-interval class 4:7
+F-major triad,C-major triad:312
+B-unison,D-unison:1
+G-interval class 4,F#-tritone:4
+F-interval class 5,E-interval class 5:1
+F-interval class 5,E-interval class 3:11
+C-major triad,G-interval class 5:1
+F-unison,F#-unison:6
+A-minor triad,C-major triad:20
+G-major triad,B-quartal tetramirror:3
+A-minor triad,B-incomplete minor-seventh chord:4
+C-incomplete major-seventh chord,G-tritone quartal tetrachord:6
+A-interval class 5,D-unison:4
+D-interval class 3,C#-interval class 3:7
+E-interval class 3,E--interval class 4:4
+C-interval class 4,D-minor triad:10
+G-interval class 5,A-interval class 2:2
+G-interval class 5,A-interval class 5:3
+A-minor triad,C-major seventh chord:3
+B-half-diminished seventh chord,A-major triad:2
+A-incomplete dominant-seventh chord,A-incomplete dominant-seventh chord:4
+E-minor triad,C-interval class 4:17
+G#-diminished triad,F-major triad:2
+C-perfect-fourth major tetrachord,D-minor triad:6
+A-minor seventh chord,E-minor triad:3
+G-interval class 4,B-unison:4
+D-dominant seventh chord,C-major-second major tetrachord:4
+F-major triad,B-tritone-fourth:2
+G-major triad,B-incomplete half-diminished seventh chord:6
+F-quartal trichord,G-incomplete dominant-seventh chord:4
+D-interval class 5,F#-interval class 3:3
+E-unison,B-tritone:3
+D-unison,D-interval class 5:3
+C-interval class 4,E-minor triad:2
+G-interval class 4,A-interval class 2:2
+G-unison,B-interval class 3:3
+D-unison,D-interval class 3:6
+C-unison,A-interval class 4:4
+E-interval class 3,D-interval class 3:105
+E-interval class 3,D-interval class 5:10
+E-interval class 3,D-interval class 4:3
+G-interval class 2,A-interval class 5:11
+A-major triad,D-minor triad:24
+C-major triad,E-incomplete dominant-seventh chord:4
+A-minor triad,E-minor triad:7
+D-interval class 3,C-interval class 4:149
+C#-interval class 3,D-interval class 3:8
+D-minor triad,D-interval class 3:3
+G-interval class 4,F#-interval class 3:10
+D-quartal tetramirror,C-major triad:122
+F-interval class 5,E-unison:3
+D-major triad,G-interval class 4:10
+B-interval class 3,G-major triad:10
+D-minor triad,E-incomplete minor-seventh chord:1
+B-interval class 3,A-incomplete minor-seventh chord:1
+B-interval class 3,E-interval class 5:4
+G-major triad,G-whole-tone tetramirror:3
+G-incomplete dominant-seventh chord,B-tritone:3
+E-interval class 2,E-interval class 2:6
+B-tritone,C-interval class 5:10
+B-tritone,C-interval class 4:33
+B-interval class 3,E-interval class 3:5
+A-minor triad,A-major-second minor tetrachord:4
+E--interval class 4,A-tritone:3
+E-incomplete minor-seventh chord,D-whole-tone tetramirror:1
+G-whole-tone tetramirror,G-whole-tone tetramirror:2
+D-minor triad,E-minor triad:9
+G-unison,B-unison:1
+B-tritone,F#-tritone:5
+C-major triad,G-dominant seventh chord:183
+B-quartal tetramirror,A-minor triad:3
+F-interval class 5,C-major triad:6
+A-unison,G-unison:38
+C-interval class 4,G-unison:76
+C-interval class 4,G#-diminished triad:4
+F-unison,C-interval class 4:12
+G-unison,G#-unison:2
+A-interval class 3,F-interval class 4:20
+C#-diminished triad,D-minor triad:3
+E-interval class 3,F#-tritone:3
+F-dominant seventh chord,A-minor triad:3
+F-major triad,F-unison:3
+C-unison,D-interval class 5:7
+G-interval class 5,C-unison:43
+C-unison,D-interval class 3:4
+C-unison,D-interval class 2:17
+C-augmented seventh chord,F-major triad:4
+C-major triad,F-major-second major tetrachord:7
+D-minor triad,F-incomplete dominant-seventh chord:4
+D-interval class 5,C-quartal trichord:3
+D-unison,B-unison:3
+G-unison,F-unison:53
+F-whole-tone trichord,D-minor triad:3
+E-interval class 3,F-major triad:3
+E-major triad,E-major triad:3
+E-interval class 3,G-interval class 2:6
+E-interval class 3,G-interval class 3:3
+E-interval class 3,G-interval class 4:4
+E-interval class 3,G-interval class 5:70
+C-interval class 5,F-interval class 4:26
+D-interval class 5,G-interval class 5:9
